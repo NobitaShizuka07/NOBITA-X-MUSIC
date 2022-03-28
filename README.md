@@ -10,7 +10,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ArnabXD/TGVCBot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ArnabXD/TGVCBot/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ArnabXD/TGVCBot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ArnabXD/TGVCBot/context:javascript)
 
-![LOGO](https://telegra.ph/file/e9dd76aadf0b500e02738.jpg)
+![LOGO](https://te.legra.ph/file/d2f4189ab9cc2b93e1a26.jpg)
 
 ### Requirements 💻:  ([wiki](../../wiki/Requirements))
 
@@ -29,7 +29,7 @@
 | SESSION      | GramJS/Telethon session string of the VC User. [Session Gen](https://ssg.roj.im)       | True     |
 | MAX_DURATION | Set maximum duration of the stream. Default: `36000` seconds                           | False    |
 | THUMBNAIL    | Direct link for default thumbnail (used if audio has no thumbnails).                   | False    |
-| WATERMARK    | Text to render on bottom left corner of Banner. Default: `TGVCBot`. (10-14 chars)      | False    |
+| WATERMARK    | Text to render on bottom left corner of Banner. Default: `NOBITAOPVCBot`. (10-14 chars)      | False    |
 
 ### Tutorial 🔥: 
 
