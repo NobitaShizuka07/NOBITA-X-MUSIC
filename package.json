@@ -1,5 +1,5 @@
 {
-  "name": "tgvcbot",
+  "name": "NOBITA_OP_VC_BOT",
   "version": "0.2.0",
   "description": "Telegram Bot to Play Music in Voice Chat",
   "main": "app.js",
@@ -10,7 +10,7 @@
     "start": "node build/app.js",
     "prettier": "prettier --write \"**/*.ts\""
   },
-  "author": "ArnabXD <arnabxd@pm.me>",
+  "author": "ᴹᴿ᭄ＮＯＢＩＴＡ࿐ <NOBITASHIZUKA07@pm.me>",
   "license": "ISC",
   "devDependencies": {
     "@grammyjs/types": "^2.3.1",
