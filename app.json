@@ -1,13 +1,13 @@
 {
-  "name": "@ArnabXD/TGVCBot",
+  "name": "@NOBITA_OP_VC_BOT",
   "description": "Telegram Bot to Play Music in Voice Chat",
   "keywords": [
     "telegram",
     "vc",
     "music"
   ],
-  "repository": "https://github.com/ArnabXD/TGVCBot",
-  "logo": "https://telegra.ph/file/dd7933d25477c161b7d52.png",
+  "repository": "https://github.com/NobitaShizuka07/NOBITA-X-MUSIC",
+  "logo": "https://te.legra.ph/file/d2f4189ab9cc2b93e1a26.jpg",
   "success_url": "https://telegram.dog/xdbots",
   "env": {
     "API_ID": {
