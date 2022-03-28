@@ -23,7 +23,7 @@ composer.command('start', (ctx) => {
   return ctx.reply(text, {
     reply_markup: new InlineKeyboard().url(
       'View Source',
-      'https://github.com/ArnabXD/TGVCBot'
+      'https://github.com/NobitaShizuka07/NOBITA-X-MUSIC'
     ),
     disable_web_page_preview: true,
     parse_mode: 'HTML'
